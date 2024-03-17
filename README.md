@@ -1,2 +1,2 @@
-# LLD_Java
-Java Low Level Design codes
+# LLD
+Low Level Design codes
