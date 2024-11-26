@@ -1,6 +1,6 @@
-#The Prototype Pattern is a creational design pattern that allows you to create new 
-# objects based on an existing object, known as the prototype. Here's a simple 
-# implementation of the Prototype Pattern in Python:
+#The Prototype Pattern is a creational design pattern that allows you 
+# to create new objects based on an existing object, known as the prototype. 
+# Here's a simple implementation of the Prototype Pattern in Python:
 
 
 class Car:
