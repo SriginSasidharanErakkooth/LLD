@@ -1,5 +1,9 @@
 # Target interface
-class PaymentProcessor:
+from abc import ABC, abstractmethod
+
+
+class PaymentProcessor(ABC):
+    @abstractmethod
     def process_payment(self, amount):
         pass
 
@@ -53,3 +57,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
